@@ -1,0 +1,6 @@
+log.txt
+# use this to list files that git should ignore
+/dir2
+#directors can also be listed !!!
+*.txt
+#and you can specify file types
